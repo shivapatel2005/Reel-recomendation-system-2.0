@@ -6,7 +6,7 @@
 //  3. Open index.html with Live Server or python -m http.server 3000
 // ─────────────────────────────────────────────────────────
 
-const GROQ_API_KEY = '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';
+const GROQ_API_KEY = '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';
 const GROQ_MODEL   = 'llama-3.3-70b-versatile';   // free & fast
 const GROQ_URL     = 'https://api.groq.com/openai/v1/chat/completions';
 
